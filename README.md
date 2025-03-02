@@ -1,10 +1,10 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT 
- # YEAR 
+ # NAME :S.DHARSHINI
+ # REGISTER NUMBER :212224230061
+ # DEPARTMENT :AI&DS
+ # YEAR :1ST YEAR
 
  
 # Aim:
@@ -49,7 +49,30 @@ XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+AND GATE:
+
+![WhatsApp Image 2025-03-02 at 17 47 46_d3026009](https://github.com/user-attachments/assets/b5da078c-1d13-4fa1-a454-62462d30984e)
+
+NAND GATE:
+
+![WhatsApp Image 2025-03-02 at 17 48 33_3073e4d2](https://github.com/user-attachments/assets/b35135ac-92a6-4cd7-97cc-f7b29a183731)
+
+OR GATE:
+
+![WhatsApp Image 2025-03-02 at 17 49 19_fa478a6a](https://github.com/user-attachments/assets/955d82bf-fcf0-4f49-a111-3c14d79de98f)
+
+NOT GATE:
+
+![WhatsApp Image 2025-03-02 at 17 49 53_56d01770](https://github.com/user-attachments/assets/8d11c9a6-7496-4d5b-a232-0230d9286436)
+
+NOR GATE:
+
+![WhatsApp Image 2025-03-02 at 17 50 35_f604556c](https://github.com/user-attachments/assets/2ac1e10a-9721-4d17-9c11-1d001e476e62)
+
+XOR GATE:
+
+![WhatsApp Image 2025-03-02 at 17 53 50_0d90104a](https://github.com/user-attachments/assets/80b9c215-0e86-42bd-9560-7f6138d25936)
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -79,6 +102,62 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+AND GATE:
+
+![ANDMINE1](https://github.com/user-attachments/assets/68bb933d-0a33-4493-bad9-e09cf2c47861)
+
+![ANDMINE2](https://github.com/user-attachments/assets/8016e89b-efdd-4b2f-b604-465dca975aa2)
+
+![ANDMINE3](https://github.com/user-attachments/assets/08a0bde6-d35d-4ce5-9d8b-742b1ec616cf)
+
+![ANDMINE4](https://github.com/user-attachments/assets/959ae604-3607-4b3e-8948-995fc4675d04)
+
+NAND GATE:
+
+![NANDMINE1](https://github.com/user-attachments/assets/79e17504-150f-4066-85f0-147273abb424)
+
+![NANDMINE2](https://github.com/user-attachments/assets/d34fa50d-29b1-4ea3-ba3e-c4965636d790)
+
+![NANDMINE3](https://github.com/user-attachments/assets/0910f245-7b67-47b8-b843-4b8a91cdff80)
+
+![NANDMINE4](https://github.com/user-attachments/assets/d6a84ff3-dfed-4a10-81ac-5abb2ca5546f)
+
+OR GATE:
+
+![ORMINE1](https://github.com/user-attachments/assets/8b6d570e-634e-4bee-a561-9986c41e88dd)
+
+![ORMINE2](https://github.com/user-attachments/assets/b37f3f65-e297-4bf2-b11c-37a09e0acec4)
+
+![ORMINE3](https://github.com/user-attachments/assets/d7c30e98-899e-4e8b-ac38-e2625ceefab5)
+
+![ORMINE4](https://github.com/user-attachments/assets/6be8992c-1f8b-427d-9c32-9655443fb4f7)
+
+NOT GATE:
+
+![NOTMINE1](https://github.com/user-attachments/assets/b7a50844-e0e3-4615-96cd-149ede70be31)
+
+![NOTMINE2](https://github.com/user-attachments/assets/760f7e71-1f6e-42e0-b275-7a90380665f1)
+
+NOR GATE:
+
+![NORMINE1](https://github.com/user-attachments/assets/0c203e60-8c25-45d6-95ec-b2683c161f70)
+
+![NORMINE2](https://github.com/user-attachments/assets/90351b62-897c-48dd-b562-1135c0b429f1)
+
+![NORMINE3](https://github.com/user-attachments/assets/0f538ebb-2543-4078-82e9-923a1be810f5)
+
+![NORMINE4](https://github.com/user-attachments/assets/ca0b13c3-25a8-436b-92af-258819efe996)
+
+XOR GATE:
+
+![XORMINE1](https://github.com/user-attachments/assets/84fa376b-c5b3-4e65-981f-ccb5d93025f5)
+
+![XORMINE2](https://github.com/user-attachments/assets/752542e8-931f-4fc8-89c7-cd2a4cc9b90a)
+
+![XORMINE3](https://github.com/user-attachments/assets/d03ee229-6875-42c3-a244-e1aad889464c)
+
+![XORMINE4](https://github.com/user-attachments/assets/60858e83-339a-4c9c-a9dd-5bd9bdf9ff98)
+
 
 
 #Results:
